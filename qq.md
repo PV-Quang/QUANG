@@ -1,14 +1,12 @@
 # Tiêu đề loại 1
 Đây là dòng 1.
-<p>
-<p>
-  <p>
-    <p>
+
+
 Đây là dòng 2
 
 
 
-zzzz
+*zzzz*
 ## Tiêu đề loại 2
 ### Tiêu đề loại 3
 #### Tiêu đề loại 4
