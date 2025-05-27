@@ -38,6 +38,8 @@ Gián tiếp: [Github](https://github.com/lucthienphong1120)
 
 ![text](https://github.com/PV-Quang/QUANG/blob/main/QQ/MicrosoftTeams-image%20(1).png)
 
+![](https://github.com/PV-Quang/QUANG/blob/main/QQ/MicrosoftTeams-image%20(1).png)
+
 ## Tiêu đề loại 2
 ubuntu
 
