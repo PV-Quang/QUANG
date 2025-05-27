@@ -1,6 +1,9 @@
 # Tiêu đề loại 1
-Đây là dòng 1
-
+Đây là dòng 1.
+.
+.
+.
+.
 Đây là dòng 2
 
 
