@@ -9,6 +9,7 @@
 *zzzz*
 ## Tiêu đề loại 2
 ubuntu
+
 `apt -y install`
 ### Tiêu đề loại 3
 #### Tiêu đề loại 4
